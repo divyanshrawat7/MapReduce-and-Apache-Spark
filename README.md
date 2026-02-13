@@ -175,32 +175,4 @@ spark-submit spark_assignment.py
 
 ---
 
-# 📌 Key Learnings
 
-- Distributed processing using MapReduce
-- HDFS storage management
-- Performance tuning using split size
-- Large-scale text processing using Spark
-- Feature engineering using TF-IDF
-- Graph modeling using DataFrame joins
-
----
-
-# 📎 GitHub Submission Note
-
-All code, execution steps, and analysis are included in this repository.  
-The repository is public for evaluation purposes.
-
----
-
-# ⭐ Final Status
-
-✔ Hadoop Completed  
-✔ Spark Completed  
-✔ Performance Analysis Completed  
-✔ Metadata Extraction Completed  
-✔ Network Construction Completed  
-
----
-
-**Assignment 1 Completed Successfully ✅**
