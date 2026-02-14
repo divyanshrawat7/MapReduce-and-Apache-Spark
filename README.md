@@ -1,4 +1,4 @@
-# 📊 CSL7110 - Big Data Assignment 1
+# 📊 CSL7110 - ML with Big Data Assignment 1
 
 ## 🧑‍💻 Student Information
 - **Course:** CSL7110 - Machine Learning With Big Data  
